@@ -27,18 +27,6 @@ function About() {
 						<button type="button" className="btn btn-primary btn-lg">Meet Agent</button>		
 					</div>
 				</div>
-				<div className="carousel-item">
-				<img src={ require('./img/bg5.png') } />
-					<div className="carousel-caption">
-						<h2 className="display-2">THE BOSS</h2>
-					</div>
-				</div>
-				<div className="carousel-item">
-				<img src={ require('./img/background3.png') } />
-				</div>	
-				<div className="carousel-item">
-				<img src={ require('./img/background2.png') } />
-				</div>	
 			</div> 
 			</div>
 			<div className="container-fluid padding">

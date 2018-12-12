@@ -38,6 +38,8 @@ class App extends Component {
       <div className="App">
         <Header />
         <p></p>
+        <p>Search for any food to view the various recipes</p>
+        <p></p>
         <Form getRecipe={this.getRecipe} className="carousel-item" />
         <Recipes recipes={this.state.recipes} className="carousel-item" />
         <p id="space"></p>
